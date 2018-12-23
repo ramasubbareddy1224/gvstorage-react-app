@@ -1,0 +1,8 @@
+
+export const ActionTypes ={
+    Home: {
+SIGNUP_USER : 'SIGNUP_USER',
+SIGNUP_USER_SUCCESS : 'SIGNUP_USER_SUCCESS',
+UPDATE_EMAIL : 'UPDATE_EMAIL'
+    }
+}
